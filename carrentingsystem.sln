@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carrentingsystem", "carrentingsystem\carrentingsystem.csproj", "{BFA194E0-7F53-484F-A085-FEDBB2AD832D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA194E0-7F53-484F-A085-FEDBB2AD832D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA194E0-7F53-484F-A085-FEDBB2AD832D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA194E0-7F53-484F-A085-FEDBB2AD832D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA194E0-7F53-484F-A085-FEDBB2AD832D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FA5D39-F740-43B4-A012-4184DA3EF546}
+	EndGlobalSection
+EndGlobal
